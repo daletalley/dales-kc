@@ -1,0 +1,30 @@
+# Dependency directories
+/node_modules
+/client/node_modules
+
+# Environment config
+.env
+
+# Build output
+/client/build
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# IDE/config files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Optional: other files/directories to ignore
+# /coverage
+# /dist
+# /tmp

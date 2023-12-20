@@ -1,0 +1,16 @@
+/* CustomerList.css */
+.customer {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .customer h3 {
+    margin: 0 0 10px 0;
+  }
+  @media (max-width: 600px) {
+    .customer {
+      padding: 10px;
+    }
+  }
+  
